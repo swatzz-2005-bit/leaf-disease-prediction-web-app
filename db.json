@@ -1,0 +1,23 @@
+{
+  "users": [
+    {
+      "id": "admin1",
+      "name": "Admin",
+      "email": "admin@leafapp.com",
+      "password": "$2a$10$ZTiN3B6IPRc.5lyaHxzemuwMoMnvLR/T4pCCC55C38RG1IP6mSCqK",
+      "role": "admin",
+      "createdAt": "2026-03-15T15:55:00.826Z"
+    },
+    {
+      "id": "user_swathi",
+      "name": "Swathi",
+      "email": "swathi.bt23@bitsaty.ac.in",
+      "password": "$2a$10$xcVmMbKM4Xo.Y793X33dg.sezxqOlKYHFa0/pFDbmddXSNfTIRPgi",
+      "role": "user",
+      "createdAt": "2026-03-15T15:55:00.980Z"
+    }
+  ],
+  "scans": [],
+  "forum": [],
+  "notifications": []
+}
